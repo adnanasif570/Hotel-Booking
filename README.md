@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wonderlust MERN Full Stack
 
 Wonderlust is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It serves as a comprehensive platform for exploring and booking travel accommodations, showcasing listings, user reviews, ratings, and integrated map visualization.
@@ -28,3 +29,6 @@ Wonderlust is a full-stack web application built using the MERN (MongoDB, Expres
 -->
 
 Feel free to contribute, report issues, or provide feedback to enhance Wonderlust MERN Full Stack. Thank you for your interest and support!
+=======
+# Hotel-Booking
+>>>>>>> bce7f55e119451a697de638052d6a9f049758f20
